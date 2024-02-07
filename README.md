@@ -1,5 +1,5 @@
 
-# Physics-Informed Neural Networks (PINNs) for Differential Equations
+# [Physics-Informed Neural Networks (PINNs) for Differential Equations]
 
 This project demonstrates the implementation of Physics-Informed Neural Networks (PINNs) using TensorFlow to solve differential equations, specifically focusing on the Helmholtz equation. PINNs incorporate the governing physical laws (e.g., differential equations) into the loss function of a neural network, enabling the network to learn solutions that adhere to these laws.
 
